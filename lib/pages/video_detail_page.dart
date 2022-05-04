@@ -469,7 +469,7 @@ class _VideoDetailPageState extends State<VideoDetailPage> {
     setState(() {
       _initializeVideoPlayerFuture = null as Future<void>;
     });
-
+  //comment
     Future.delayed(const Duration(milliseconds: 200), () {
       _clearPrevious().then((value){
         _initializePlay(videoItem['video_url']);
