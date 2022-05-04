@@ -1,16 +1,4 @@
 # youtube_clone_app_ui
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/26844387/166748509-dad54c3b-6598-4610-a5fa-488cdab5d8fc.png" width="200" height="400" />  
+<img src="https://user-images.githubusercontent.com/26844387/166748527-24751129-296e-42e6-9f8d-e1b57bc7f374.png" width="200" height="400" />
